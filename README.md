@@ -23,7 +23,7 @@ python3.8 panoramix.py address [func_name] [--verbose|--silent|--explain]
 e.g.
 
 ```
-python3.8 panoramix.py 0x06012c8cf97bead5deae237070f9587f8e7a266d
+python3.8 panoramix.py 0x49EAb2B60F88bAcd5AbF486E9156272b124ad124
 ```
 or
 ```
